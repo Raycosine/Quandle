@@ -950,11 +950,11 @@
                 var freq_sum=document.getElementsByClassName('row-char-sum')[0];
                 var freq_list=document.getElementsByClassName('row-char')[0];
                 var freq_total=document.getElementsByClassName('row-char');
-                for(i=1;i<freq_sum.childElementCount;i++){
-                    freq_total[i].remove();
+                for(i=0;freq_sum.childElementCount>1;i++){
+                    freq_total[0].remove();
                 }
                 for(i=0;i<26;i++){
-                    freq_list.children[i].style.opacity=0;
+                    freq_total[0].children[i].style.opacity=0;
                 }
 
             }
