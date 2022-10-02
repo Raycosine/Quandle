@@ -11,7 +11,7 @@ Fonts (public domain) & sound effects (under CC0 license) are from the Internet.
 
 # How to play
 
-You'll immediately know how to play quandle if you already know some basic quantum knowledge and wordle!
+You'll immediately know how to play quandle if you already know some basic quantum knowledge and wordle! Watch the [Game trailer](https://www.youtube.com/watch?v=q_zJioewPww) on YouTube.
 
 ## Daily & Practice
 Consider |a>, ..., |z> as the basis "single-character" states. An n-letter "word state" looks like |qubit>, and any state on superposition can be written in the same way as quantum states: |qubit>+|qudit>, |qu>(|b>+|d>)|it>, ...For simplicity, the coefficients are not considered in this game.
