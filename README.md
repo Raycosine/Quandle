@@ -5,8 +5,8 @@ This is the project submitted to [Quantum Game Jam 2022](https://itch.io/jam/qua
 
 #Credits
 Game design & coding & UI & background music: Raycosine.
-The game is also uploaded to my github page: http://raycosine.github.io/Quandle.html and on itch.io: https://raycosine.itch.io/quandle.
-Use SOWPODS as the word list (not all words are English words!!)
+The game is also uploaded to my github page: http://raycosine.github.io/Quandle.html and on itch.io: https://raycosine.itch.io/quandle. (mobile friendly)
+Use SOWPODS as the word list (not all words are English words!!) 
 Fonts (public domain) & sound effects (under CC0 license) are from the Internet. Detailed info can be found on the index page.
 
 # How to play
