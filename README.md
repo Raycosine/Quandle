@@ -1,7 +1,7 @@
 # Quandle
 A quantum variant of wordle.
 
-This is the project submitted to Quantum Game Jam 2022. During Quantum Games Hackathon, a few more features were added. 
+This is the project submitted to [Quantum Game Jam 2022](https://itch.io/jam/quantum-game-jam-2022/rate/1707734). During Quantum Games Hackathon, a few more features were added: "quantum" anagrams & redesigned UI. 
 
 #Credits
 Game design & coding & UI & background music: Raycosine.
